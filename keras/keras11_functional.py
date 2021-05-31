@@ -1,4 +1,5 @@
 #함수형 모델
+#다 : 다
 import numpy as np
 from tensorflow.keras.models import Sequential, Model
 from tensorflow.keras.layers import Dense, Input
